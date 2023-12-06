@@ -35,5 +35,12 @@ https://www.webofscience.com/
 ### Plataforma Web Nacional para desenvolvimento de pesquisas,artigos, papers, TCC e inclusive cursos para preparação para elaboração desses trabalhos:
 https://www.nucleodoconhecimento.com.br/blog/normas/apa-vancouver-e-abnt
 ***
+### Matéria relevante ao tema de interesse sobre curriculos :
+https://www.nucleodoconhecimento.com.br/blog/curriculo-lattes/paper-academico
+***
+### Diferença de normas para elaboração de trabalhos acadêmicos:
+https://www.nucleodoconhecimento.com.br/blog/normas/apa-vancouver-e-abnt
+***
+
 
 
