@@ -29,7 +29,11 @@ https://www.academica.com.br/post/web-of-science-como-buscar-artigos
 ### Site oficinal :
 https://www.webofscience.com/
 ***
-### Site de pesquisas cientificas :
+### Site de pesquisas cientificas internacional :
    https://www.researchgate.net/
 ***      
+### Plataforma Web Nacional para desenvolvimento de pesquisas,artigos, papers, TCC:
+https://www.nucleodoconhecimento.com.br/blog/normas/apa-vancouver-e-abnt
+***
+
 
