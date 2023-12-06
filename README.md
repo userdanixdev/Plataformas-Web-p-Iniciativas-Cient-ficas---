@@ -26,3 +26,6 @@ https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br/index.php?option
 ### Plataforma WEB que ensina a fazer buscas em artigos cientificos para o site internacional 'web of science':
 https://www.academica.com.br/post/web-of-science-como-buscar-artigos
 
+### Site oficinal :
+https://www.webofscience.com/
+
