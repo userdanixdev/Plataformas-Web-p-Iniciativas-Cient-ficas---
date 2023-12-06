@@ -29,7 +29,6 @@ https://www.academica.com.br/post/web-of-science-como-buscar-artigos
 ### Site oficinal :
 https://www.webofscience.com/
 ***
-*
 ### Site de pesquisas cientificas :
       https://www.researchgate.net/
 ***      
