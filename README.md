@@ -41,9 +41,13 @@ https://www.nucleodoconhecimento.com.br/blog/curriculo-lattes/paper-academico
 ### Diferença de normas para elaboração de trabalhos acadêmicos:
 https://www.nucleodoconhecimento.com.br/blog/normas/apa-vancouver-e-abnt
 ***
-### Plataforma CAPES - Governamental - sobre programas de pós-graduação strictu sensu - :
+### Plataforma SUCUPIRA/CAPES - Governamental - sobre programas de pós-graduação strictu sensu - :
 https://sucupira.capes.gov.br/sucupira/public/consultas/coleta/programa/quantitativos/quantitativoPrograma.jsf?areaAvaliacao=1&areaConhecimento=10200002&cdRegiao=0&ies=2990
 ***
+### Plataforma CAPES:
+https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/avaliacao/sobre-a-avaliacao/avaliacao-o-que-e/sobre-a-avaliacao-conceitos-processos-e-normas
+***
+
 
 
 
