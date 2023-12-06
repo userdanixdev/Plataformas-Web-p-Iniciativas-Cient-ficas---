@@ -47,6 +47,44 @@ https://sucupira.capes.gov.br/sucupira/public/consultas/coleta/programa/quantita
 ### Plataforma CAPES:
 https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/avaliacao/sobre-a-avaliacao/avaliacao-o-que-e/sobre-a-avaliacao-conceitos-processos-e-normas
 ***
+### Ferramentas IA:
+ 
+https://chat.openai.com/
+
+https://www.perplexity.ai/
+
+https://www.academia.org.br/nossa-lingua/busca-no-vocabulario
+
+https://gpte.ai/ (Saber sobre as novas IAs)
+
+https://app.rytr.me/ (Cria imagens)
+
+https://tome.app/ (Cria imagens)
+
+https://openai.com/dall-e-2 (Cria imagens)
+
+https://escritha.com/ (Automatiza a produção de artigos)
+
+https://writesonic.com/?via=nameless (Cria artigos, sites, blogs)
+
+https://www.overleaf.com/ (LateX editor)
+
+https://www.mendeley.com/ (Automatiza referências)
+
+https://pdf.chat/
+
+https://www.zerogpt.com/ (Identifica se o texto foi escrito por IA)
+
+Genie IA (Para celular)
+
+https://www.copy.ai/
+
+https://durable.co/  (Cria site)
+
+https://www.grammarly.com/ (Confere plágios)
+
+https://www.deepl.com/translator (Tradutor)
+***
 
 
 
