@@ -32,7 +32,7 @@ https://www.webofscience.com/
 ### Site de pesquisas cientificas internacional :
    https://www.researchgate.net/
 ***      
-### Plataforma Web Nacional para desenvolvimento de pesquisas,artigos, papers, TCC:
+### Plataforma Web Nacional para desenvolvimento de pesquisas,artigos, papers, TCC e inclusive cursos para preparação para elaboração desses trabalhos:
 https://www.nucleodoconhecimento.com.br/blog/normas/apa-vancouver-e-abnt
 ***
 
