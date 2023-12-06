@@ -14,4 +14,15 @@ https://inspirehep.net/ - Repositori de artigos também
 ### Vídeo sobre o método 'preprint' do repositório 'arxiv':
 https://www.youtube.com/watch?v=iDsiEwqgcjw
 ***
+## Ferramentas de busca:
+### Google Acadêmico:
+
+https://scholar.google.pt/scholar?hl=pt-BR&as_sdt=0%2C5&q=refino+de+petr%C3%B3leo+e+petroqu%C3%ADmica&oq=refino+de+petr  - 
+***
+
+### E Periódicos CAPES:   _até a data da publicação desse repositório - não sei ainda o que é esse treinamento_
+https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br/index.php?option=com_ptreinaments&mn=72&smn=82&
+***
+### Plataforma WEB que ensina a fazer buscas em artigos cientificos para o site internacional 'web of science':
+https://www.academica.com.br/post/web-of-science-como-buscar-artigos
 
