@@ -85,6 +85,9 @@ https://www.grammarly.com/ (Confere plágios)
 
 https://www.deepl.com/translator (Tradutor)
 ***
+### Parte do livro sobre cidades , redes e Python: 
+https://ipeagit.github.io/intro_access_book/
+***
 
 
 
