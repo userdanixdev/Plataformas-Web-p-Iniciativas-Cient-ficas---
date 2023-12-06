@@ -94,6 +94,12 @@ https://www.spacesyntax.online/software-and-manuals/space-syntax-toolkit-2/
 ### Software:
 https://spacegroupucl.github.io/depthmapX/
 ***
-
+### Livros:
+https://www.amazon.com.br/Urbis-Brasiliae-Labirinto-Cidades-Brasileiras/dp/8523011005/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=E3CUB471DGGN&keywords=urbis+brasiliare&qid=1686101535&sprefix=urbis+brasiliare%2Caps%2C248&sr=8-1
+***
+### Livros:
+https://www.amazon.com.br/Estima%C3%A7%C3%A3o-Volumes-Tr%C3%A1fego-Morfologia-Urbana/dp/3330203196/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=E3CUB471DGGN&keywords=urbis+brasiliare&qid=1686101587&sprefix=urbis+brasiliare%2Caps%2C248&sr=8-2&ufe=app_do%3Aamzn1.fos.25548f35-0de7-
+44b3-b28e-0f56f3f96147
+***
 
 
