@@ -109,5 +109,9 @@ https://hotmart.com/pt-br/marketplace/produtos/iramuteq-na-pratica/Q48107095T
 https://agencia.fapesp.br/escola-politecnica-da-usp-oferece-curso-sobre-bibliometria/35180
  
 https://vanzolini.org.br/educacao/negocios/bibliometria-teoria-e-pratica-2/
+***
+### Curso QGIS
+https://www.youtube.com/watch?v=GES32tTHun8
+***
 
 
