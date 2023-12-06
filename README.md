@@ -101,5 +101,13 @@ https://www.amazon.com.br/Urbis-Brasiliae-Labirinto-Cidades-Brasileiras/dp/85230
 https://www.amazon.com.br/Estima%C3%A7%C3%A3o-Volumes-Tr%C3%A1fego-Morfologia-Urbana/dp/3330203196/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=E3CUB471DGGN&keywords=urbis+brasiliare&qid=1686101587&sprefix=urbis+brasiliare%2Caps%2C248&sr=8-2&ufe=app_do%3Aamzn1.fos.25548f35-0de7-
 44b3-b28e-0f56f3f96147
 ***
+### Bibliometria & Iramutec:
+####Você deve pesquisar sobre Bibliometria: 
+
+https://hotmart.com/pt-br/marketplace/produtos/iramuteq-na-pratica/Q48107095T
+ 
+https://agencia.fapesp.br/escola-politecnica-da-usp-oferece-curso-sobre-bibliometria/35180
+ 
+https://vanzolini.org.br/educacao/negocios/bibliometria-teoria-e-pratica-2/
 
 
