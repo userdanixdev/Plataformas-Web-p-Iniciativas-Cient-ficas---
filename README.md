@@ -88,7 +88,7 @@ https://www.deepl.com/translator (Tradutor)
 ### Parte do livro sobre cidades , redes e Python: 
 https://ipeagit.github.io/intro_access_book/
 ***
-### Software par uso
+### Software par uso de geolocalização
 https://www.spacesyntax.online/software-and-manuals/space-syntax-toolkit-2/
 ***
 ### Software:
