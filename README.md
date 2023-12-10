@@ -113,5 +113,10 @@ https://vanzolini.org.br/educacao/negocios/bibliometria-teoria-e-pratica-2/
 ### Curso QGIS
 https://www.youtube.com/watch?v=GES32tTHun8
 ***
-
+### Curso QGIS Português:
+https://www.youtube.com/@TutoriaisSIG
+***
+### Melhores Softwares para GIS:
+https://digilandia.io/aplicativos/melhores-softwares-gis/
+ ***
 
