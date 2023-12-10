@@ -88,7 +88,7 @@ https://www.deepl.com/translator (Tradutor)
 ### Parte do livro sobre cidades , redes e Python: 
 https://ipeagit.github.io/intro_access_book/
 ***
-### Software par uso de geolocalização
+### Software par uso de geolocalização (PLUGIN QCIS)
 https://www.spacesyntax.online/software-and-manuals/space-syntax-toolkit-2/
 ***
 ### Software:
@@ -110,13 +110,13 @@ https://agencia.fapesp.br/escola-politecnica-da-usp-oferece-curso-sobre-bibliome
  
 https://vanzolini.org.br/educacao/negocios/bibliometria-teoria-e-pratica-2/
 ***
-### Curso QGIS
+### Curso QCIS
 https://www.youtube.com/watch?v=GES32tTHun8
 ***
-### Curso QGIS Português:
+### Curso QCIS Português:
 https://www.youtube.com/@TutoriaisSIG
 ***
-### Melhores Softwares para GIS:
+### Melhores Softwares para QCIS:
 https://digilandia.io/aplicativos/melhores-softwares-gis/
  ***
 
