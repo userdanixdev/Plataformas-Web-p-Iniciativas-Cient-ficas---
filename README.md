@@ -120,3 +120,16 @@ https://www.youtube.com/@TutoriaisSIG
 https://digilandia.io/aplicativos/melhores-softwares-gis/
  ***
 
+### Curso GOOGLE Professional Data Analytics:
+ www.coursera.org
+ ***
+###  Curso GOOGLE Professional BI:
+www.coursera.org
+***
+### Curso IBM - Certificado Profissional Ciência de dados da IBM
+www.coursera.org
+***
+### Análise de dados com Python da IBM:
+www.coursera.org
+***
+
